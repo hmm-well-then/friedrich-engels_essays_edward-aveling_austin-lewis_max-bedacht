@@ -7,6 +7,7 @@ footer{
 }
 
 p.question{
+	margin: 1em;
 	font-variant: small-caps;
 	text-align: center;
 }
