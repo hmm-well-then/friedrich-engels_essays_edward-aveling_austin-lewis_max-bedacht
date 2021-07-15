@@ -6,9 +6,15 @@ footer{
 	text-align: right;
 }
 
-p.question{
+p.question,
+p.theses{
 	margin: 1em;
 	font-variant: small-caps;
+	text-align: center;
+}
+
+#feuerbach-appendix > p:first-child{
+	font-style: italic;
 	text-align: center;
 }
 
