@@ -11,11 +11,7 @@ p.theses{
 	margin: 1em;
 	font-variant: small-caps;
 	text-align: center;
-}
-
-#feuerbach-appendix > p:first-child{
-	font-style: italic;
-	text-align: center;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:signature"]{
